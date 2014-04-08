@@ -1,4 +1,9 @@
-#!perl
+#!/usr/bin/perl
+
+eval 'exec /usr/bin/perl  -S $0 ${1+"$@"}'
+    if 0; # not running under some shell
+use FindBin;
+use lib "$FindBin::Bin/../lib/perl5";
 use strict;
 use warnings;
 use Message::Passing;
