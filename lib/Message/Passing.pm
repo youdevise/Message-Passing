@@ -299,7 +299,7 @@ the SureVoIP API -
 Copyright Suretec Systems Ltd. 2012.
 
 Logstash (upon which many ideas for this project is based, but
-which we do not reuse any code from) is copyright 2010 Jorden Sissel.
+which we do not reuse any code from) is copyright 2010 Jordan Sissel.
 
 =head1 LICENSE
 

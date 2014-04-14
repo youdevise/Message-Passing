@@ -41,7 +41,7 @@ add_stopwords(qw(
     Tomas
     Doran
     t0m
-    Jorden
+    Jordan
     Logstash
     Sissel
     Suretec
