@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 eval 'exec /usr/bin/perl  -S $0 ${1+"$@"}'
-    if 0; # not running under some shell
+    if 0; # not running under some shell or other
 use FindBin;
 use lib "$FindBin::Bin/../lib/perl5";
 use strict;
